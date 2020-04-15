@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2020-04-14T13:01:33.069Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2020/04/13/Bilibili%E5%8A%A8%E6%80%81%E7%BD%91%E9%A1%B5%E7%9A%84%E7%88%AC%E5%8F%96/</loc>
+    
+    <lastmod>2020-04-14T02:02:28.439Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2020-04-13T13:56:28.571Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2020-04-13T10:11:23.727Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/css/index.css</loc>
+    
+    <lastmod>2020-04-12T04:26:59.381Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/css/var.css</loc>
+    
+    <lastmod>2020-04-12T04:26:59.381Z</lastmod>
+    
+  </url>
+  
+</urlset>
